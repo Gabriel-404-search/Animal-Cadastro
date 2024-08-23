@@ -1,0 +1,5 @@
+Fazer as tabelas e já adicionar seus valores (feito)
+
+fazer o repositorio extendendo a JpaRepository e colocar como argumento a entidade (feito)
+
+fazer as logicas do CRUD dentro do service ()
